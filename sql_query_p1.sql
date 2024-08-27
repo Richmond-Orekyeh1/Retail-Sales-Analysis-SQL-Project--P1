@@ -1,5 +1,5 @@
 -- SQL Retail Sales Analysis - P1
-CREATE DATABASE sql_retails;
+CREATE DATABASE sql_retails_db;
 
 
 -- Create TABLE
